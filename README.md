@@ -1,7 +1,5 @@
 # Muhammad Talha Arshad 👨‍💻
 
-![Profile Banner](https://via.placeholder.com/1200x200.png?text=Software+Engineer+Portfolio)
-
 Hi, I'm Talha, a Software Engineer from Lahore, Pakistan, with 3+ years of experience building scalable web applications using **Laravel**, **PHP**, **MySQL**, **JavaScript**, **jQuery**, **HTML**, **CSS**, and **Bootstrap**. I specialize in optimizing performance (e.g., 30% faster POS systems) and integrating APIs (e.g., Shopify, FBR) to boost efficiency by 40%. Currently learning **Vue.js** and **AWS** to tackle modern full-stack challenges.
 
 🔭 **What I Do**: Develop e-commerce platforms, CRMs, and management systems, handling up to 1M hits and 15k products.  
