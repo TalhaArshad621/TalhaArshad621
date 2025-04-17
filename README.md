@@ -1,5 +1,5 @@
 # Muhammad Talha Arshad 👨‍💻
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 Hi, I'm Talha, a Software Engineer from Lahore, Pakistan, with 3+ years of experience building scalable web applications using **Laravel**, **PHP**, **MySQL**, **JavaScript**, **jQuery**, **HTML**, **CSS**, and **Bootstrap**. I specialize in optimizing performance (e.g., 30% faster POS systems) and integrating APIs (e.g., Shopify, FBR) to boost efficiency by 40%. Currently learning **Vue.js** and **AWS** to tackle modern full-stack challenges.
 
 🔭 **What I Do**: Develop e-commerce platforms, CRMs, and management systems, handling up to 1M hits and 15k products.  
